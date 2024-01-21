@@ -1,0 +1,14 @@
+C:\Users\cheik\IdeaProjects\projetmicroservice\common-service\src\main\java\com\uahb\m1info\common\service\event\CompteEvent.java
+C:\Users\cheik\IdeaProjects\projetmicroservice\common-service\src\main\java\com\uahb\m1info\common\service\dto\ClientDto.java
+C:\Users\cheik\IdeaProjects\projetmicroservice\common-service\src\main\java\com\uahb\m1info\common\service\event\Event.java
+C:\Users\cheik\IdeaProjects\projetmicroservice\common-service\src\main\java\com\uahb\m1info\common\service\dto\CompteDto.java
+C:\Users\cheik\IdeaProjects\projetmicroservice\common-service\src\main\java\com\uahb\m1info\common\service\dto\ServiceDto.java
+C:\Users\cheik\IdeaProjects\projetmicroservice\common-service\src\main\java\com\uahb\m1info\common\service\event\PaiementEvent.java
+C:\Users\cheik\IdeaProjects\projetmicroservice\common-service\src\main\java\com\uahb\m1info\common\service\dto\PaiementDto.java
+C:\Users\cheik\IdeaProjects\projetmicroservice\common-service\src\main\java\com\uahb\m1info\common\service\event\PaiementStatus.java
+C:\Users\cheik\IdeaProjects\projetmicroservice\common-service\src\main\java\com\uahb\m1info\common\service\event\TransactionEvent.java
+C:\Users\cheik\IdeaProjects\projetmicroservice\common-service\src\main\java\com\uahb\m1info\common\service\dto\TransactionDto.java
+C:\Users\cheik\IdeaProjects\projetmicroservice\common-service\src\main\java\com\uahb\m1info\common\service\event\ClientEvent.java
+C:\Users\cheik\IdeaProjects\projetmicroservice\common-service\src\main\java\com\uahb\m1info\common\service\event\TransactionStatus.java
+C:\Users\cheik\IdeaProjects\projetmicroservice\common-service\src\main\java\com\uahb\m1info\common\service\event\ClientStatus.java
+C:\Users\cheik\IdeaProjects\projetmicroservice\common-service\src\main\java\com\uahb\m1info\common\service\event\CompteStatus.java

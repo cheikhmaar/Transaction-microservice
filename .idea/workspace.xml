@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0243882d-86a4-417d-909c-98adee358b89" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2V54difAtvDTDWzwJWbFOlSVko0" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../commande-api" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.uahb.m1info.common.service.event" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.uahb.m1info.api.gateway" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.uahb.m1info.naming.server" />
+      <recent name="server" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cheik\IdeaProjects\projetmicroservice\api-gatewaye\src\main\java\com\uahb\m1info\api\gatewaye" />
+      <recent name="C:\Users\cheik\IdeaProjects\projetmicroservice\api-gatewaye\src\main\resources" />
+      <recent name="C:\Users\cheik\IdeaProjects\projetmicroservice\api-gateway\src\main\java\com\uahb\m1info\api\gateway" />
+      <recent name="C:\Users\cheik\IdeaProjects\projetmicroservice\api-gateway" />
+      <recent name="C:\Users\cheik\IdeaProjects\projetmicroservice\api-gateway\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TransactionServiceApplication">
+    <configuration name="com.uahb.m1info.paiement.service.service in paiementservice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="paiementservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uahb.m1info.paiement.service.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.uahb.m1info.paiement.service.service" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="apigatewaye" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uahb.m1info.api.gatewaye.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.uahb.m1info.api.gatewaye.ApiGatewayeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NamingServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="namingserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uahb.m1info.naming.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.uahb.m1info.naming.server.NamingServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaiementServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="paiementservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uahb.m1info.paiement.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.uahb.m1info.paiement.service.PaiementServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="transactionservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uahb.m1info.transaction.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.uahb.m1info.transaction.service.TransactionServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.TransactionServiceApplication" />
+        <item itemvalue="Spring Boot.PaiementServiceApplication" />
+        <item itemvalue="Spring Boot.ApiGatewayeApplication" />
+        <item itemvalue="Spring Boot.NamingServerApplication" />
+        <item itemvalue="JUnit.com.uahb.m1info.paiement.service.service in paiementservice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+        <option name="groupByContributor" value="true" />
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0243882d-86a4-417d-909c-98adee358b89" name="Default Changelist" comment="" />
+      <created>1694095552156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694095552156</updated>
+      <workItem from="1694095556586" duration="9306000" />
+      <workItem from="1694112711942" duration="2172000" />
+      <workItem from="1694219960690" duration="314000" />
+      <workItem from="1694266493321" duration="10563000" />
+      <workItem from="1694290585548" duration="27273000" />
+      <workItem from="1694574379563" duration="734000" />
+      <workItem from="1694611391521" duration="5234000" />
+      <workItem from="1694618428514" duration="6833000" />
+      <workItem from="1694630923040" duration="725000" />
+      <workItem from="1694642529520" duration="317000" />
+      <workItem from="1694653520990" duration="15955000" />
+      <workItem from="1694713592135" duration="8651000" />
+      <workItem from="1694798529383" duration="738000" />
+      <workItem from="1694802709856" duration="733000" />
+      <workItem from="1694855405655" duration="1373000" />
+      <workItem from="1694875123385" duration="22668000" />
+      <workItem from="1694919712393" duration="28088000" />
+      <workItem from="1695231201848" duration="88000" />
+      <workItem from="1695231320462" duration="300000" />
+      <workItem from="1695231731934" duration="4000" />
+      <workItem from="1695232825596" duration="1877000" />
+      <workItem from="1695383804881" duration="4734000" />
+      <workItem from="1695412365268" duration="5281000" />
+      <workItem from="1695461162147" duration="7171000" />
+      <workItem from="1695565293091" duration="163000" />
+      <workItem from="1696035130759" duration="488000" />
+      <workItem from="1696075796792" duration="1569000" />
+      <workItem from="1696077675660" duration="1484000" />
+      <workItem from="1696351542542" duration="1781000" />
+      <workItem from="1696502475601" duration="691000" />
+      <workItem from="1696526341559" duration="111000" />
+      <workItem from="1696535929811" duration="190000" />
+      <workItem from="1696557208630" duration="2358000" />
+      <workItem from="1696593424537" duration="5775000" />
+      <workItem from="1696768523230" duration="47000" />
+      <workItem from="1696867813010" duration="3226000" />
+      <workItem from="1696871197064" duration="925000" />
+      <workItem from="1696873940168" duration="210000" />
+      <workItem from="1696877518704" duration="949000" />
+      <workItem from="1696936117430" duration="707000" />
+      <workItem from="1696955767788" duration="842000" />
+      <workItem from="1696959536700" duration="3487000" />
+      <workItem from="1696975263829" duration="31000" />
+      <workItem from="1698423248071" duration="619000" />
+      <workItem from="1704575844611" duration="593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

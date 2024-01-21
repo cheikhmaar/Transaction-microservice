@@ -1,0 +1,36 @@
+spring:
+  application:
+    name: transaction-service
+
+  kafka:
+    bootstrap-servers: localhost:9092
+    consumer:
+      group-id: "default"
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password:
+    url: jdbc:mysql://localhost:3306/transaction-service
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+        format_sql: true
+    show-sql: true
+
+topic:
+  name: compte-event-topic
+
+
+server:
+  port: 8086
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    hostname: localhost
